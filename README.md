@@ -11,7 +11,7 @@ Cleaning datasets using pandas data frame and DB2 connection, Plots for quick an
 Model for time series exploration
 
 ### 4. Tableau ###
-Visualization, please review the results un [my tableau public]()
+Visualization, please review the results on [my tableau public]()
 
 # References #
 
