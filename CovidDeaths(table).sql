@@ -1,7 +1,7 @@
 USE [CovidProject]
 GO
 
-/****** Object:  Table [dbo].[CovidDeaths]    Script Date: 5/25/2021 8:44:15 PM ******/
+/****** Object:  Table [dbo].[CovidDeaths]    Script Date: 17/3/2023 8:44:15 PM ******/
 SET ANSI_NULLS ON
 GO
 
